@@ -22,4 +22,4 @@ In addition, this project will include:
 
 **Wireframes**
 
-![alt text](“./img/Chainwireframe”)
+![alt text](./img/Chainwireframe.png)
